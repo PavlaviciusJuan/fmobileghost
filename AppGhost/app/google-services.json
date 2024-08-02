@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382801116503",
+    "project_id": "ghost-firebase-128ee",
+    "storage_bucket": "ghost-firebase-128ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382801116503:android:a0e255eb85d56a6fbb5212",
+        "android_client_info": {
+          "package_name": "com.example.appghost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN3dKqQyGKdle4sBE6acfiWhrNFJIUaoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
